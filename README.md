@@ -3,7 +3,7 @@
 </p>
 
 ## About
-This is a fan project which implements Resident Evil 2: Remake inventory system in Unity engine. </br>
+This is a fan project which reimplements Resident Evil 2: Remake inventory system in Unity engine. </br>
 System is supporting keyboard and controller usage. </br>
 Some of the features like slot merging is missing but it can be added with some extra effort.
 
