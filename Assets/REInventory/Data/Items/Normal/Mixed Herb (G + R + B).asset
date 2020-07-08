@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c52199fbe1dd7744a119c11cd027c66, type: 3}
+  m_Name: Mixed Herb (G + R + B)
+  m_EditorClassIdentifier: 
+  name: Mixed Herb (G + R + B)
+  description: "This is a mixture of a Green Herb, a Red Herb and a Blue Herb. \nThis
+    will completely restore all of your overall health, cure the Poison status, and
+    guard against contracting it for a small amount of time."
+  icon: {fileID: 21300000, guid: b0b64808741d01d46a7a6c43545e8168, type: 3}
+  actionMapFilterTypes: 0100000003000000

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c867b75af46c78459ace69d70ea4d7c, type: 3}
+  m_Name: Blue Herb
+  m_EditorClassIdentifier: 
+  name: Blue Herb
+  description: A blue-coloured herb that is native to the area.
+  icon: {fileID: 21300000, guid: 3de66ceac4ea8084d81ad548f935e064, type: 3}
+  actionMapFilterTypes: 0200000003000000
+  combinePairs:
+  - RequiredItem: {fileID: 11400000, guid: 33f3ce12f99af3d4ab3f2e3d5706dd7f, type: 2}
+    Result: {fileID: 11400000, guid: d011ffc47c72222469678e05d6169407, type: 2}
